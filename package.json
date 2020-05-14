@@ -4,5 +4,8 @@
   "description": "Webpack environment ready to compile markdown.",
   "main": "index.js",
   "author": "Arian Vega",
-  "license": "GPL-3.0-only"
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "typescript": "^3.9.2"
+  }
 }
