@@ -6,6 +6,13 @@
   "author": "Arian Vega",
   "license": "GPL-3.0-only",
   "devDependencies": {
-    "typescript": "^3.9.2"
+    "extract-loader": "^5.0.1",
+    "file-loader": "^6.0.0",
+    "html-loader": "^1.1.0",
+    "markdown-loader": "^5.1.0",
+    "rimraf": "^3.0.2",
+    "typescript": "^3.9.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
   }
 }
