@@ -1,0 +1,8 @@
+{
+  "name": "compile-markdown",
+  "version": "1.0.0",
+  "description": "Webpack environment ready to compile markdown.",
+  "main": "index.js",
+  "author": "Arian Vega",
+  "license": "GPL-3.0-only"
+}
