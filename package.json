@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Arian Vega",
   "license": "GPL-3.0-only",
+  "scripts": {
+    "tscc": "rimraf src/dist && tsc --build tsconfig.json",
+    "wpc": "rimraf dist && webpack --config src/dist/webpack.config.js && rimraf dist/js"
+  },
   "devDependencies": {
     "@types/node": "^14.0.1",
     "extract-loader": "^5.0.1",
